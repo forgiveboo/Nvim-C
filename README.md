@@ -1,4 +1,4 @@
-# nvim
+# Nvim-C
 ### **从零配置适用于C语言的nvim**
 - [ ] nvim基础配置
 - [ ] nvim插件安装
